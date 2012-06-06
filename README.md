@@ -3,7 +3,7 @@ CalcPasswordStrength
 Calculate password strength based on entropy
 
 
-Copyright (c) 2006, C. Dean Whitaker
+Copyright (c) 2012, C. Dean Whitaker
 
 THIS FILE IS PROVIDED UNDER THE TERMS OF THIS COMMON PUBLIC LICENSE
 ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THIS FILE
